@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Ran play game on </title>
     <link>//localhost:1313/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Ran play game on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 21:12:36 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baka</title>
+      <link>//localhost:1313/test/baka/</link>
+      <pubDate>Sun, 16 Mar 2025 21:12:36 +0000</pubDate>
+      <guid>//localhost:1313/test/baka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test Post</title>
+      <link>//localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 16 Mar 2025 20:33:30 +0000</pubDate>
+      <guid>//localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;testing testy test test&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
