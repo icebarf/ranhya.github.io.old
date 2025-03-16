@@ -1,0 +1,23 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "I'm Ran, I like to play video games. I will blog here about my favorite video games and video game challanges that I do."
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "posts by category"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
