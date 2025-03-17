@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2025-03-17T00:19:02Z
-draft: true
+draft: false
 ---
 
 Contrary to the title of the webpage, my name is infact not Ran—Ran is just a nickname essentially. My name is actually *Rei* (Yes I know very different from Ra) and I like video games.
