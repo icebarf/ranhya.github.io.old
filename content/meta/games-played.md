@@ -1,0 +1,79 @@
+---
+title: "Games Played"
+date: 2025-03-17T09:35:17Z
+draft: false
+---
+This is a list of games that I've played. Some of them I've not yet played to the end. It's in no particular order, I might order it alphabetically at one point but I am too lazy to do that right now. It's also not exhauative because I probably can't remember some of them. I'm also not counting games that I've only played for a couple of hours.
+
+- Persona Series
+  - Person 5 Royal
+  - Persona 4 Golden
+  - Persona 3 Portable
+  - Persona 2
+  - Persona 1
+- Sifu
+- Dishonored Series
+  - Dishonored
+  - Dishonored 2
+- Horizon Zero Dawn
+- Enter the Gungeon
+- Soulsborne
+  - Dark Souls 3
+  - Sekiro: Shadows Die Twice
+  - Bloodborne
+- Monster Hunter Series
+  - Monster Hunter Rise: Sunbreak
+  - Monster Hunter World
+- Risk of Rain 2
+- Watch Dogs
+- Just Cause 3
+- Uncharted Series
+  - Uncharted 1
+  - Uncharted 4
+  (Will play others soon!)
+- Yakuza Series
+  - Yakuza 6
+  - Yakuza 0
+  - Yakuza Kiwami
+  - Yakuza Kiwami 2
+  - Yakuza 7
+  (Must finish Kiwami and Kiwami 2)
+- Brawlhalla
+- Valorant
+- Apex Legends
+- Nier Automata
+- Minecraft
+- The Witcher 3
+- Hollow Knight
+- Crypt of The Necrodancer
+- Sleeping Dogs
+- Steam World Dig
+- Ratchet and Clank (2016)
+- Red Dead Redemption 2
+- Darwin Project (RIP)
+- Splitgate
+- God of War (2018)
+- Spellbreak
+- Need for Speed
+  - Need for Speed Heat
+  - Need for Speed
+- Spelunky
+- Trackmania
+  - TMNF
+  - Trackmania 2020
+- Hades
+- Honkai Star Rail
+- Genshin Impact
+- Zenless Zone Zero
+- My Hero Academia: Ultra Rumble
+- Borderlands
+- Metal Gear Solid 5
+- Mirror's Edge Catalyst
+- The Binding of Isaac
+- Baba is you
+- Nuclear Throne
+- Devil May Cry 5
+- Dragon Quest X Online
+- Tomb Raider
+- Marvel's Spiderman
+- Horizon Forbidden West
