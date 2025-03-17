@@ -3,7 +3,7 @@ title: "Games Played"
 date: 2025-03-17T09:35:17Z
 draft: false
 ---
-This is a list of games that I've played. Some of them I've not yet played to the end. It's in no particular order, I might order it alphabetically at one point but I am too lazy to do that right now. It's also not exhauative because I probably can't remember some of them. I'm also not counting games that I've only played for a couple of hours.
+This is a list of games that I've played. Some of them I've not yet played to the end. It's in no particular order, I might order it alphabetically at one point but I am too lazy to do that right now (Even though it would take 2 seconds with chatgpt) It's also not exhauative because I probably can't remember some of them. I'm also not counting games that I've only played for a couple of hours.
 
 - Persona Series
   - Person 5 Royal
