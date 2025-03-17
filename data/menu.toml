@@ -14,10 +14,10 @@ title = "all posts"
   show_more_url = "posts"
 
 [[entries]]
-title = "posts by category"
+title = "meta"
 
   [entries.post_list]
-  section = "test"
+  section = "meta"
   show_more = true
   show_more_text = "See more posts..."
   show_more_url = "posts"

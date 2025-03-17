@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ran play game on </title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in Ran play game on </description>
+    <title>Meta on </title>
+    <link>//localhost:1313/meta/</link>
+    <description>Recent content in Meta on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Mar 2025 00:19:02 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>//localhost:1313/meta/aboutme/</link>
       <pubDate>Mon, 17 Mar 2025 00:19:02 +0000</pubDate>
       <guid>//localhost:1313/meta/aboutme/</guid>
       <description>&lt;p&gt;Contrary to the title of the webpage, my name is infact not Ran—Ran is just a nickname essentially. My name is actually &lt;em&gt;Rei&lt;/em&gt; (Yes I know very different from Ra) and I like video games.&lt;/p&gt;&#xA;&lt;p&gt;I started playing video games when I was about 6 or 7 years old, and the first game I think I ever played was GTA:SA&amp;hellip; yeah at 7 years old. I still have not finished that game to this day but the nostalgia factor means it holds a special place in my heart. I actually still watch YouTube content for the game, mainly from Joshimuz a great YouTuber/Streamer and GTA:SA speedrunner.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baka</title>
-      <link>//localhost:1313/posts/baka/</link>
-      <pubDate>Sun, 16 Mar 2025 21:49:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/baka/</guid>
-      <description>&lt;p&gt;Kono baka ga!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
