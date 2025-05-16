@@ -5,7 +5,7 @@ draft = false
 +++
 # Ran Play Game
 
-#100%
+# 100%
 - Sekiro: Shadow Die Twice - 85 Hours
 - Hades - 10th platinum - ~100 hours
 - Ratchet and Clank - ~30 hours
@@ -16,7 +16,7 @@ draft = false
 * Horizon Zero Dawn - First platinum - ~60 hours
 * Dishonored 2 ~63 hours
 * Uncharted: Drake’s Fortune Remastered - 26 hours
-Platinumed
+# Platinumed
 * Dishonored - 48 hours
 * Sleeping dogs - 90 hours
 * Persona 5 Royal*
