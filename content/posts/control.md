@@ -11,4 +11,7 @@ The gameplay in control is something akin to a metroidvania, just more linear th
 
 One of my favorite things about the game is actually a specific area—one you visit a couple times throughout the game: **The Ocean View Motel and Casino.**
 
-It’s a liminal space. In the plot it is used as a sort of security measure by the Bureau. It is just so *vibey* I absolutely love it. You don’t spend a lot of time in the area throughout the game—obviously since it is a liminal space. But every time I got to go there I thought got so excited lol.
+![IMG_0629](https://github.com/user-attachments/assets/69950ccb-0a49-430b-b67a-dcf28f6eb14a)
+
+
+It’s a liminal space. In the plot it is used as a sort of security measure by the Bureau. It is just so *vibey* I absolutely love it. You don’t spend a lot of time in the area throughout the game—obviously since it is a liminal space. But every time I got to go there I would get so excited lol.
