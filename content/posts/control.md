@@ -7,7 +7,7 @@ Control is an amazing game with an amazing atmosphere. While a little short I th
 
 You play as Jesse Faden, in search of her brother who was taken away by the FBC (Federal Bureau of Control)… which is basically the SCP foundation. 
 
-The gameplay in control is something akin to a metroidvania, just more linear than a game you’d traditionally call a metroidvania. The game while mostly story focused has someo side content, especially with the two DLCs—that being said it’s still quite short. I’ve heard of people finishing the game in like 9 hours. I got the plat in about 19. Finished both the DLCs in 21 I think.
+The gameplay in control is something akin to a metroidvania, just more linear than a game you’d traditionally call a metroidvania. The game while mostly story focused has someo side content, especially with the two DLCs—that being said it’s still quite short. I’ve heard of people finishing the game in like 9 hours. I got the [plat](https://m.youtube.com/watch?v=-ZqxTEynWDY) in about 19. Finished both the DLCs in 21 I think.
 
 One of my favorite things about the game is actually a specific area—one you visit a couple times throughout the game: **The Ocean View Motel and Casino.**
 
