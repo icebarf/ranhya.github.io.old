@@ -24,7 +24,7 @@ That’s only on crushing difficulty though—hard and below are quite fair I th
 
 I am currently trying to platinum the Nathan Drake Collection, so I have to do Uncharted 2 and 3 next—however I think I might also do a brutal run (probably just going to cheat though) for the collection trophy that requires you to beat the game on brutal.
 
-—-
+---
 
 ## The Story
 
