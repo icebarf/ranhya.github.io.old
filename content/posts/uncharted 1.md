@@ -18,7 +18,7 @@ The lots of fighting got pretty boring on my first play-through, however—with 
 And the amount of encounters did allow for that, but while I thought it a plus during my crushing play-thorough, I do have to say the difficulty and amount of encounters could definitely get quite stale—
 
 You die in like three shots;
-The enemies practically have aim bot, so using the in-game cover system means you have very little time to peak out of cover before you get shot to death—and couple that with whatever the fuck kinda drugs the enemies are taking to literally **dodge your shoots** matrix-style… the game can feel super duper punishing and unfair a lot of the time… a lot of my deaths I felt like I had no chance because the enemies just lasered me out of nowhere—it definitely felt like RNG at times whether or not I would die in a section.
+The enemies practically have aim bot, so using the in-game cover system means you have very little time to peak out of cover before you get shot to death—and couple that with whatever the fuck kinda drugs the enemies are taking to literally **dodge your shots** matrix-style… the game can feel super duper punishing and unfair a lot of the time… a lot of my deaths I felt like I had no chance because the enemies just lasered me out of nowhere—it definitely felt like RNG at times whether or not I would die in a section.
 
 That’s only on crushing difficulty though—hard and below are quite fair I think.
 
