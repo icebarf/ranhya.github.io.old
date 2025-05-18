@@ -24,6 +24,16 @@ That’s only on crushing difficulty though—hard and below are quite fair I th
 
 I am currently trying to platinum the Nathan Drake Collection, so I have to do Uncharted 2 and 3 next—however I think I might also do a brutal run (probably just going to cheat though) for the collection trophy that requires you to beat the game on brutal.
 
+## The gun-play
+The gun play is overall very satisfying even if it’s a little lacking in terms of… feedback? It’s still very satisfying to hit headshots and the guns don’t feel too bad. Out of all of the weapons the pistols are by far the best feeling and, also probably the strongest, with the shotgun being in second. The rifles, are just way too unwieldy and only really good for blind fire, and even then they’re out closed by the shotguns in that area as well. So in reality there’s only like 3 guns that are worth using in the whole game
+
+- All of the pistols besides the submachine gun
+- The sniper
+- The shotguns
+
+## The collectible system
+Pretty lacking in my opinion, there are 61 treasures in total, and the way they are placed around the game is pretty boring… you end up getting a lot in the first few chapters and then they’re spread out pretty thin throughout the whole game after that. Most of them are not very far off the beaten path and all you do is walk up to them and pick them up. There’s also certain areas with like 3 or 4 treasures close to each other so they get very heavily penalized for proximity. That being said they’re not the worst, and you can totally miss them it’s not like they’re in plain sight.
+
 ---
 
 ## The Story
