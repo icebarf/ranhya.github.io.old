@@ -53,4 +53,4 @@ Elena is awesome and I hope to see more of her in 2 and 3, Elena in 4 was also a
 Yeah that’s all my thoughts. Bye!
 
 ---
-[^1] I'd only played Uncharted 4 to completion as of writing this.
+[^1]: I'd only played Uncharted 4 to completion as of writing this.
