@@ -11,7 +11,8 @@ Uncharted 1 is a game that had potential—it’s not perfect but it was good en
 
 Uncharted 1 starts you off right in the action—and that’s indicative of the whole game. Having now beaten the game on Crushing (legit) and acquired the [platinum](https://youtu.be/wnW1rw-geFU). I have to say, while the game has its flaws, I had a lot of fun doing it!
 
-The main gripe I have with the game, is that there is a LOT of shooting—compared to (as of the time I’m writing this keep in mind I’ve only played uncharted 4 to completion excluding this game) Uncharted 4.
+The main gripe I have with the game, is that there is a LOT of shooting—compared to Uncharted 4.[^1]
+
 
 The lots of fighting got pretty boring on my first play-through, however—with the absolutely insane difficulty of crushing, I thought it wasn’t *as bad*. Weird… I know, but I found it very rewarding (and frustrating :D) to finally get through a tough encounter some of which took dozens of tries and strategies.
 
@@ -22,7 +23,7 @@ The enemies practically have aim bot, so using the in-game cover system means yo
 
 That’s only on crushing difficulty though—hard and below are quite fair I think.
 
-I am currently trying to platinum the Nathan Drake Collection, so I have to do Uncharted 2 and 3 next—however I think I might also do a brutal run (probably just going to cheat though) for the collection trophy that requires you to beat the game on brutal.
+I am currently trying to platinum the Nathan Drake Collection, so I have to do Uncharted 2 and 3 next. However I think I might also do a brutal run (probably just going to cheat though) for the collection trophy that requires you to beat the game on brutal.
 
 ## The gun-play
 The gun play is overall very satisfying even if it’s a little lacking in terms of… feedback? It’s still very satisfying to hit headshots and the guns don’t feel too bad. Out of all of the weapons the pistols are by far the best feeling and, also probably the strongest, with the shotgun being in second. The rifles, are just way too unwieldy and only really good for blind fire, and even then they’re outclassed by the shotguns in that area as well. So in reality there’s only like 3 guns that are worth using in the whole game
@@ -50,3 +51,6 @@ You defeat all of them—kinda… (RIP Eddy). I think the big reveal near the en
 Elena is awesome and I hope to see more of her in 2 and 3, Elena in 4 was also awesome so… 
 
 Yeah that’s all my thoughts. Bye!
+
+---
+[^1] I'd only played Uncharted 4 to completion as of writing this.
