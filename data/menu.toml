@@ -6,19 +6,19 @@ url = "https://ranhya.github.io/meta/about/"
   title = "I'm Ran, I like to play video games. I will blog here about my favorite video games and video game challanges that I do!"
 
 [[entries]]
-title = "all posts"
-
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "posts"
-
-[[entries]]
 title = "meta"
 
   [entries.post_list]
   section = "meta"
   show_more = true
   show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
   show_more_url = "posts"
