@@ -1,7 +1,6 @@
 ---
 title: "About"
 draft: false
-category: meta
 date: 2025-05-19
 ---
 ![img](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Footer%20Icon.PNG)
