@@ -3,9 +3,9 @@ title: "About"
 draft: false
 date: 2025-05-19
 ---
-![img](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Footer%20Icon.PNG)
 This is a site that I don’t expect many people to read, it’s mostly just for me to keep track of what video games I’ve played and my thoughts on them—just in a public manner because why not. I’ll try to keep it updated as much as possible because I don’t want to be another person with a “blog” that only has like two posts lol.
 
 If you like the site you can message me on discord @ranhya and tell me what you think about it! I’m not really on any other social media so. 
+![img](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Footer%20Icon.PNG)
 
 ##### This site is made with Hugo in combination with the nostyleplease theme
