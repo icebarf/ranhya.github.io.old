@@ -1,7 +1,7 @@
 ---
-title =  "Completion List"
-date = 2022-08-25T21:30:04+08:00
-draft = false
+title: "Completion List"
+date: 2022-08-25T21:30:04+08:00
+draft: false
 ---
 # 100%
 - [Sekiro: Shadow Die Twice](https://youtu.be/OXaeOXQwhtk) - 85 Hours
