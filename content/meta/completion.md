@@ -15,6 +15,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - Horizon Zero Dawn - First platinum - ~60 hours
 - [Dishonored 2](https://youtu.be/_3bs6to5pm4) - ~63 hours
 - [Uncharted: Drake’s Fortune Remastered](https://youtu.be/wnW1rw-geFU) - 26 hours
+- [Uncharted 2: Among Thieves](https://m.youtube.com/watch?v=XIChj3ESokk&pp=0gcJCY0JAYcqIYzv) - 27 hours
 ## Platinumed
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
 - Sleeping dogs - 90 hours
