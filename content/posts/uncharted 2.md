@@ -15,7 +15,7 @@ First of all, the game looks a lot better than the first—and I would argue tha
 - Story is better.
 
 ## ✨ Gameplay ✨
-The gameplay is the main thing I really enjoyed about the game—obviously. My first play through, was obviously on crushing difficulty… gotta get that plat! 
+The gameplay is the main thing I really enjoyed about the game—obviously. My first play through, was obviously on crushing difficulty… gotta get that [plat](https://m.youtube.com/watch?v=XIChj3ESokk&pp=0gcJCY0JAYcqIYzv)!
 
 The game was challenging on crushing but it wasn’t totally unfair… though there were times where I was super bored of the fighting and just wanted to get it over with—but kept dying because… I was super bored of the fighting and wanted to get it over with. Now most of the game doesn’t have encounter after encounter—the start of the game does, starting at chapter 4… but after a few more chapters the encounters become less. That is until you get to chapter 19-21-ish where at that point it is essentially just fighting for the most part—some puzzle solving here and there but it is a lot of fighting in between that and platforming.
 
@@ -69,13 +69,13 @@ The rewards you get for them are pretty awesome, the selectable weapons and twea
 
 Uncharted 2’s story is a big improvement on the previous game. The story has Nate and Chloe searching for the lost city of Shambala. Big bad guy is also looking for it. Overall a great story with another supernatural twist at the end.
 
-## Writing
+### Writing
 The one thing I found was better was the writing, lots of fun quips and stuff like that—like [this famous line](https://youtu.be/1wXoG0Li11w), or in chapter 4 or 5 if you go into the rooftop pool Nate and Chloe do the Marco Polo thing—or in the chapter with the big statue where you first use the dagger, if you go into the water there’s dialogue for that too.
 
-## Chloe
+### Chloe
 Chloe is a pretty cool character—it was a surprise to me that Nate didn’t end up being betrayed by her… from the start I thought she would betray Nate but it didn’t happen, though Nate still ended up with Elena, which I don’t mind. For most of the game she doesn’t care about others but herself and Nate but like right at the end that changes with Elena which is quite nice… not much of a character arc but her change of heart at the end was still nice.
 
-## Final Boss
+### Final Boss
 The final boss was a really fun fight, I did spend like an hour dying to him on Crushing but I found the gimmick to be very fun even though it was frustrating on crushing. On other difficulties it is totally fine and is a very awesome fight that leads to a satisfying ending after wanting to beat the shit out of Lozaravich for so long.
 
 All my thoughts. Bye!
