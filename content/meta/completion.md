@@ -16,10 +16,10 @@ This is a list of the games I have completed—not in any particular order. The 
 - [Dishonored 2](https://youtu.be/_3bs6to5pm4) - ~63 hours
 - [Uncharted: Drake’s Fortune Remastered](https://youtu.be/wnW1rw-geFU) - 26 hours
 - [Uncharted 2: Among Thieves](https://m.youtube.com/watch?v=XIChj3ESokk&pp=0gcJCY0JAYcqIYzv) - 27 hours
+- [Persona 5 Royal](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Persona%205%20Royal%20All%20confidants%20Max.JPG) - 135 Hours
 ## Platinumed
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
 - Sleeping dogs - 90 hours
-- Persona 5 Royal
 - [The Witcher 3](https://youtu.be/fI7F0vM7USo) - 107 hours
 - [Sifu](https://youtu.be/3iiG7TlDsVc) -  15th platinum - 28 hours
 - [Control](https://youtu.be/-ZqxTEynWDY) - 19 hours
