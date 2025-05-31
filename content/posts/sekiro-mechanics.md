@@ -1,5 +1,5 @@
 ---
-title: "Sekiro and Pointless Mechanics"
+title: Sekiro and Pointless Mechanics
 date: 2025-05-28
 draft: false
 ---
@@ -24,10 +24,10 @@ Unseen Aid is probably the most pointless mechanic in this game. It ties in with
 
 When you die you have a chance to not lose 50% of your EXP and Sen. That’s it. The chance is 30% by default but, it can be changed by dragon rot.
 
-* Owning one Rot Essence decreases the percentage of Unseen Aid to 15%.
-* Each subsequent Rot Essence decreases Unseen Aid chance by 2%
-* Unseen Aid chance can go down to no lower than 2%.
-* Healing Dragon Rot increases the percentage back to the default of 30%; see the Dragon Rot page for details.
+- Owning one Rot Essence decreases the percentage of Unseen Aid to 15%.
+- Each subsequent Rot Essence decreases Unseen Aid chance by 2%
+- Unseen Aid chance can go down to no lower than 2%.
+- Healing Dragon Rot increases the percentage back to the default of 30%; see the Dragon Rot page for details.
 
 This means that it cannot be increased past 30% so it’s basically useless.
 
