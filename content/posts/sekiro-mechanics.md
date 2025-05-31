@@ -1,6 +1,6 @@
 ---
 title: Sekiro and Pointless Mechanics
-date: 2025-06-11
+date: 2025-07-01
 draft: false
 ---
 I love Sekiro and it is as of the time I’m writing this my favorite FromSoft game. However, while they nailed pretty much everything else I feel like there’s a few pointless mechanics in the game that bug me. I think the most popular one known for being absolutely pointless is the Dragon Rot mechanic.
