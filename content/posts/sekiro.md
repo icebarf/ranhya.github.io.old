@@ -5,11 +5,11 @@ draft: false
 ---
 ![[Sekiro]](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Sekiro.jpeg)
 
-Sekiro is a great game with one of the best combat systems in any video game ever. And I’m glad to have played and completed it—and to have [platinumed]( https://m.youtube.com/watch?v=OXaeOXQwhtkit) It is definitely in my top 10.
+Sekiro is a great game with one of the best combat systems in any video game ever. And I’m glad to have played and completed it—and to have [platinumed]( https://m.youtube.com/watch?v=OXaeOXQwhtkit) it. It is definitely in my top 10.
 ***
 
 ## The Combat
-The most important part of the game, is obviously the combat, and the bosses as well—they go hand in hand. Sekiro’s combat is often described as a dance, and that’s not wrong I don’t think. In the start the abilities at your disposal are basic, but you really don’t need much more to beat the game, there is one ability that should be in your default kit, thought I know why it isn’t… that is the Mikiri Counter ability. It is the first ability you will ever get probably and it serves as a way to teach the player about the ability system, so it makes sense that it’s not in your default kit since for most players it will be the first ability they ever acquire.
+The most important part of the game, is obviously the combat, and the bosses as well—they go hand in hand. Sekiro’s combat is often described as a dance, and that’s not wrong I don’t think. In the start the abilities at your disposal are basic, but you really don’t need much more to beat the game, there is one ability that should be in your default kit, though I know why it isn’t… that is the Mikiri Counter ability. It is the first ability you will ever get probably and it serves as a way to teach the player about the ability system, so it makes sense that it’s not in your default kit since for most players it will be the first ability they ever acquire.
 ### Endgame combat
 Endgame and NG+ combat when compared to how you started out is such a vast difference, with so many abilities at your disposal—you can choreograph fights to basically become cool-ass anime fights, if you’re good enough of course. I’m not that good but I’ve gotten some awesome fights here and there, though if you really wanna see some badass gameplay the YouTuber ONGBAL has a lot…
 
