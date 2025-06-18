@@ -32,3 +32,6 @@ When you die you have a chance to not lose 50% of your EXP and Sen. That’s it.
 This means that it cannot be increased past 30% so it’s basically useless.
 
 Yeah that’s it. Dragon deez nuts on yo face.
+
+#### Related Articles
+[Sekiro: Shadows Die Twice](https://ranhya.github.io/posts/sekiro/)
