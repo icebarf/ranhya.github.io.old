@@ -17,7 +17,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - Dark Souls 3 - ~100 hours
 - [Uncharted: Drake’s Fortune Remastered](https://ranhya.github.io/posts/uncharted-1/) - 26 hours
 - [Uncharted 2: Among Thieves](https://ranhya.github.io/posts/uncharted-2/) - 27 hours
-- [Persona 5 Royal](https://youtu.be/zkXiGMjm2SY?si=6eHhtSa8c4s_U8ja) - 135 Hours
+- [Persona 5 Royal](https://ranhya.github.io/posts/persona-5-royal/) - 135 Hours
 ## Platinumed
 - [Dishonored](https://youtu.be/BwJBtOMsYyI) - 48 hours
 - Sleeping dogs - 90 hours
