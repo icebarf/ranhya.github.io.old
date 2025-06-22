@@ -21,7 +21,7 @@ And so the story begins… not quite yet. The start of the game is painfully slo
 It takes a couple of hours of tutorials and confused characters to actually finally start the first dungeon of the game—which you now know of as a “palace…”
 
 ## Palaces
-Kamoshida’s Palace and story is the main hook of the game. It’s the beginning dungeon obviously, but I do believe it’s also one of the best and of course it’s what sets the story and motion and helps form the Phantom Thieves.
+Kamoshida’s Palace and story is the main hook of the game. It’s the beginning dungeon obviously, but I do believe it’s also one of the best and of course it’s what sets the story in motion and helps form the Phantom Thieves.
 
 Compared to the rest of the palaces it is a lot more basic with not a lot of special mechanics, but it doesn’t need them. The story establishes Kamoshida as a villain from basically the very start and it feels so good to finally take his ass down.
 
