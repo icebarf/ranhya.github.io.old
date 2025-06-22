@@ -12,7 +12,7 @@ The game starts you off right in the action, right in one of the game’s last d
 Only like 100 hours in you end up back at this point and it is the coolest thing ever.
 
 ## The Premise
-You play as Joker, a high schooler who after a tussle with a man heckling a woman—get sent off to Tokyo to stay with a family friend, Sakura Sojiro… with a new and shiny criminal record to boot.
+You play as Joker, a high schooler who after a tussle with a man heckling a woman—gets sent off to Tokyo to stay with a family friend, Sakura Sojiro… with a new and shiny criminal record to boot.
 
 On the first day of school you meet your soon to be best bro Sakamoto Ryuji, and somehow accidentally—you end up in the game’s first dungeon.
 
@@ -28,7 +28,7 @@ Compared to the rest of the palaces it is a lot more basic with not a lot of spe
 It’s always best to beat a palace immediately—go in on day one and make it to the treasure in one day, then the next you send the calling card and get it over with in 2 days. The reason being is that you will get the most free time in this way to do over-world activities.
 
 I believe in the original this was a lot more difficult, however Royal made it a piece of cake to do this and it really isn’t that much of a challenge. Which kind of sucks but I will talk about that later in this post.
-***
+
 Each palace has its own special mechanics and all of them have absolutely amazing environments and art of course. They all offer unique challenges through puzzles and other sorts of mechanics, though most of the puzzles are not very difficult. The puzzles do get more complicated as you progress through the game—with the very last palace in the game, all the way in the second semester having the hardest puzzles in my opinion… though they’re still not too difficult which sucks. That being said the palaces are obviously super fun to navigate and offer enough challenge to keep you entertained.
 
 ## The Overworld
