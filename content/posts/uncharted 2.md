@@ -79,3 +79,6 @@ Chloe is a pretty cool character—it was a surprise to me that Nate didn’t en
 The final boss was a really fun fight, I did spend like an hour dying to him on Crushing but I found the gimmick to be very fun even though it was frustrating on crushing. On other difficulties it is totally fine and is a very awesome fight that leads to a satisfying ending after wanting to beat the shit out of Lozaravich for so long.
 
 All my thoughts. Bye!
+
+#### Related Articles
+[Uncharted: Drake's Fortune Remastered](https://ranhya.github.io/posts/uncharted-1/)
