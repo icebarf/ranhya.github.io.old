@@ -41,4 +41,4 @@ title = "all posts"
   limit = 5
   show_more = true
   show_more_text = "See archive..."
-  show_more_url = "posts"
+  show_more_url = "content"
