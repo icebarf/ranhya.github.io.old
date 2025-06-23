@@ -15,15 +15,15 @@ title = "meta"
   show_more_url = "posts"
 
 [[entries]]
-title = "all posts"
+title = "posts"
 
-  [[entries.entries]]
-  title = "Video Game Articles"
+  [entries.entries]
+  title = "Video Game Posts"
   [entries.post_list]
   limit = 5
   show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "content"
+  show_more_text = "See all posts..."
+  show_more_url = "posts"
 
 [[entries]]
 title = "offtopic"
