@@ -15,10 +15,20 @@ title = "meta"
   show_more_url = "posts"
 
 [[entries]]
+title = "games"
+
+  [entries.post_list]
+  section = "games"
+  limit = 3
+  show_more = true
+  show_more_text = "See all posts..."
+  show_more_url = "games"
+
+[[entries]]
 title = "all posts"
 
   [entries.post_list]
-  limit = 10
+  limit = 5
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
