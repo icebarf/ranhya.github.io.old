@@ -6,7 +6,7 @@ draft: false
 This is a list of the games I have completed—not in any particular order. The games in "platinumed" are games I have gotten all the achievements for but have not done enough for me to consider them completed 100%.[^1]
 ## 100%
 - [Sekiro: Shadow Die Twice](https://ranhya.github.io/posts/sekiro/) - 85 Hours
-- Hades - 10th platinum - ~100 hours
+- [Hades](https://ranhya.github.io/posts/hades/) - 10th platinum - ~100 hours
 - Ratchet and Clank - ~30 hours
 - Risk of Rain 2 - ~150 hours
 - Hollow Knight - ~100 hours
