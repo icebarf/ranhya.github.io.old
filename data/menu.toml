@@ -19,6 +19,7 @@ title = "game posts"
 
   [entries.post_list]
   limit = 5
+  section = "posts"
   show_more = true
   show_more_text = "See all posts..."
   show_more_url = "posts"
