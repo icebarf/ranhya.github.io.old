@@ -11,7 +11,7 @@ This is a list of the games I have completed—not in any particular order. The 
 - Risk of Rain 2 - ~150 hours
 - Hollow Knight - ~100 hours
 - NieR: Automata - ~45 hours
-- Bloodborne (No DLC) - ~100 hours
+- [Bloodborne](https://ranhya.github.io/posts/bloodborne/) (No DLC) - 150 hours
 - Horizon Zero Dawn - First platinum - ~60 hours
 - [Dishonored 2](https://youtu.be/_3bs6to5pm4) - ~63 hours
 - Dark Souls 3 - ~100 hours
