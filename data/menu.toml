@@ -15,10 +15,8 @@ title = "meta"
   show_more_url = "posts"
 
 [[entries]]
-title = "posts"
+title = "game posts"
 
-  [entries.entries]
-  title = "Video Game Posts"
   [entries.post_list]
   limit = 5
   show_more = true
