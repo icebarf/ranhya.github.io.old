@@ -11,7 +11,7 @@ title = "meta"
   [entries.post_list]
   section = "meta"
   show_more = true
-  show_more_text = "See more posts..."
+  show_more_text = "See archive..."
   show_more_url = "posts"
 
 [[entries]]
@@ -25,6 +25,16 @@ title = "games"
   show_more_url = "games"
 
 [[entries]]
+title = "offtopic"
+
+  [entries.post_list]
+  section = "offtopic"
+  limit = 3
+  show_more = true
+  show_more_text = "See all posts..."
+  show_more_url = "offtopic"
+
+[[entries]]
 title = "all posts"
 
   [entries.post_list]
@@ -32,13 +42,3 @@ title = "all posts"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
-
-[[entries]]
-title = "offtopic"
-
-  [entries.post_list]
-  section = "offtopic"
-  limit = 3
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "offtopic"
