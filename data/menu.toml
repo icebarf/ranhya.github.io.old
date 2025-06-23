@@ -18,15 +18,16 @@ title = "meta"
 title = "all posts"
 
   [entries.post_list]
-  limit = 5
+  limit = 10
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
 
 [[entries]]
+title = "offtopic"
 
   [entries.post_list]
-  title = "offtopic"
+  section = "offtopic"
   limit = 3
   show_more = true
   show_more_text = "See archive..."
