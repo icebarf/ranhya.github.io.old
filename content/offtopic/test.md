@@ -1,6 +1,9 @@
 ---
-title: test
+title: baka
 date: 2025-06-23
 draft: false
 ---
-test
+kono baka ga!
+
+
+
