@@ -27,7 +27,7 @@ Beast blood pellets increase the damage you do at the cost of increasing the dam
 The game has a unique limb break mechanic which allows you to break a boss’s limbs and stagger them, this mechanic is absolutely broken and allows you to stun lock certain bosses.
 
 ### The Bosses
-This is the base game’s worst area in my opinion—there’s just not that many good bosses compared to the bad ones, and the good really good bosses you might just miss if you don’t explore. I don’t have the DLC so I’ll only be talking about the base game bosses. From what I’ve seen the DLC doesn’t have this issue and it has some of the best bosses.
+This is the base game’s worst area in my opinion—there’s just not that many good bosses compared to the bad ones, and the really good bosses you might just miss if you don’t explore enough. I don’t have the DLC so I’ll only be talking about the base game bosses. From what I’ve seen the DLC doesn’t have this issue and it has some of the best bosses.
 
 Martyr Logarius is in my opinion the best boss in the base game, and it is an optional boss that’s actually very easy to miss as it’s a pain in the ass to even get to him. You have to parkour over rooftops and all of that in an optional area.
 
