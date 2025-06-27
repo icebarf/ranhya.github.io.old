@@ -8,4 +8,4 @@ This is a site that I don’t expect many people to read, it’s mostly just for
 If you like the site you can message me on discord @ranhya and tell me what you think about it! I’m not really on any other social media so. 
 ![img](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Footer%20Icon.PNG)
 
-###### This site is made with Hugo in combination with the nostyleplease theme
+###### This site is made using Hugo in combination with the nostyleplease theme
