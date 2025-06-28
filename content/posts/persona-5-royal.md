@@ -50,5 +50,13 @@ If it’s your first playthrough and care about difficulty—I recommend playing
 
 All in all the difficulty isn’t really an issue as the game isn’t meant to be the most difficult. I heard that the original is harder. Part of what makes it harder is that you get kicked out of the palace when you reach 100% on the security gauge so you have to be careful of that and it can ruin your 1 day run. Royal doesn’t have this so reaching 100% security gauge will do nothing more than increase the amount of enemies you fight.
 
+## The Soundtrack
+Persona 5 Royal has one of my favorite soundtracks in any game and I still listen to songs from it regularly. It’s an amazing soundtrack that fits the vibe of the game perfectly and adds so much charm to the game it’s absolutely amazing. During battles I was just singing along having the time of my life listening to the songs. And near the end of the first semester the main boss theme changes and hearing it for the first time while fighting these cool-ass bosses was so awesome.
+
+Beneath the Mask is an amazing song that fits the night Tokyo vibe and the theme of the game a lot, and the rain version without the lyrics is just *chefs kiss*, the cherry on top. 
+
+Oh yeah speaking of the rain + Beneath the Mask is such a calming combo the very first time I played the game when I was no-lifeing it, I would just fall asleep with the game in the background on a rainy day.
+
+
 #### Related Articles
 [Persona 5 Royal: Tips for All Confidants MAX](https://ranhya.github.io/posts/p5r-tips/)
