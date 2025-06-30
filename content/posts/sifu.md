@@ -2,6 +2,7 @@
 title: Sifu
 date: 2025-05-28
 draft: false
+platinum: https://m.youtube.com/watch?v=3iiG7TlDsVc
 ---
 ![Sifu](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Sifu.JPG)
 ## It's just awesome
