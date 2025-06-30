@@ -5,7 +5,7 @@ draft: false
 platinum: https://youtu.be/wnW1rw-geFU
 ---
 
-![Uncharted 1 Boat](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Uncharted%201%20Boat.AVIF)
+![Uncharted 1 Boat](/images/Uncharted_1_Boat.avif)
 Uncharted 1 is a game that had potential—it’s not perfect but it was good enough; so it got a sequel and the series was born, I think idfk.
 
 ## Platinum Experience
