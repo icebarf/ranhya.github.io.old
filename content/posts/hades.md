@@ -3,8 +3,8 @@ title: Hades
 date: 2025-06-23
 draft: false
 ---
-![Hades.jpeg](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Hades.jpeg)
-I’m a sucker for a good roguelite and Hades is one of the best, and also one of the most unique. Hades is one of the first (if not the first) roguelites to have a very prominent story. The story is built around you dying and interacting with the different NPCs at the house of Hades. [The game has a total of 21,020 voice lines and 30 voiced characters](https://x.com/SupergiantGames/status/1343986323007238144?s=20).![Hades voiceover stats.jpeg](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Hades%20voiceover%20stats.jpeg)
+![Hades.jpeg](images/Hades.jpeg)
+I’m a sucker for a good roguelite and Hades is one of the best, and also one of the most unique. Hades is one of the first (if not the first) roguelites to have a very prominent story. The story is built around you dying and interacting with the different NPCs at the house of Hades. [The game has a total of 21,020 voice lines and 30 voiced characters](https://x.com/SupergiantGames/status/1343986323007238144?s=20).![Hades voiceover stats.jpeg](/images/Hades_voiceover_stats.jpeg)
 ***
 ## The Combat
 Hades’s combat is fast paced and satisfying—though it really makes my hands hurt! There 6 weapons all with 4 different aspects each. The aspects change the way the weapons are played and provide even more variety—you could say the game has 24 weapons in fact and it wouldn’t be wrong.
