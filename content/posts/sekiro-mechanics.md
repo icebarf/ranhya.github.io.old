@@ -34,4 +34,4 @@ This means that it cannot be increased past 30% so it’s basically useless.
 Yeah that’s it. Dragon deez nuts on yo face.
 
 #### Related Articles
-[Sekiro: Shadows Die Twice](https://ranhya.github.io/posts/sekiro/)
+[Sekiro: Shadows Die Twice](/posts/sekiro/)
