@@ -2,6 +2,7 @@
 title: Persona 5 Royal
 date: 2025-06-22
 draft: false
+platinum: https://youtu.be/zkXiGMjm2SY
 ---
 ![Persona 5 Royal.png](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Persona%205%20Royal.png)
 One of the most stylish games of the decade, and a masterpiece in story telling and JRPG gameplay.
