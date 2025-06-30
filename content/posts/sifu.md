@@ -4,7 +4,7 @@ date: 2025-05-28
 draft: false
 platinum: https://m.youtube.com/watch?v=3iiG7TlDsVc
 ---
-![Sifu](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Sifu.JPG)
+![Sifu](/images/Sifu.JPG)
 ## It's just awesome
 Sifu is one of the best games I’ve ever played. It’s just genius, the way everything is put together it feels like a game made with so much love and passion. It’s a game with infinite replay-ability—and you’re constantly getting better as you play, the better you get the more fun it becomes. Your first play-through you’re barely figuring out the enemies patterns and struggling to finish the levels without dying—you learn the level and then finally get to the boss at a reasonable age only to die like 10 times just to beat him… but you go on—and by the end you’ve gotten pretty decent, the levels are hard but you can get through them without dying, and you feel confident that you can beat the last boss… I think on my first play-through I got to the last boss at like age 60, and it took a bunch of tries and finally learning how to parry in order to beat him.
 
