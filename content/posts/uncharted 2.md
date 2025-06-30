@@ -2,6 +2,7 @@
 title: "Uncharted 2: Among Theives"
 date: 2025-05-21
 draft: false
+platinum: https://m.youtube.com/watch?v=XIChj3ESokk&pp=0gcJCY0JAYcqIYzv
 ---
 ![Uncharted 2](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Uncharted%202.WEBP)
 Uncharted 2 is a great game that is an improvement on the first in almost every way—story, visuals, and gameplay… not only that but it is also quite a bit longer than the first.
