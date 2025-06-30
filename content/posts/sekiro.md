@@ -4,7 +4,7 @@ date: 2025-06-18
 draft: false
 platinum: https://m.youtube.com/watch?v=OXaeOXQwhtkit
 ---
-![[Sekiro]](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Sekiro.jpeg)
+![[Sekiro]](/images/Sekiro.jpeg)
 
 Sekiro is a great game with one of the best combat systems in any video game ever. And I’m glad to have played and completed it—and to have [platinumed]( https://m.youtube.com/watch?v=OXaeOXQwhtkit) it. It is definitely in my top 10.
 ***
