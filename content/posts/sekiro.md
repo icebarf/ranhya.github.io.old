@@ -2,6 +2,7 @@
 title: "Sekiro: Shadows Die Twice"
 date: 2025-06-18
 draft: false
+platinum: https://m.youtube.com/watch?v=OXaeOXQwhtkit
 ---
 ![[Sekiro]](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Sekiro.jpeg)
 
