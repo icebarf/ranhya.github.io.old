@@ -56,4 +56,4 @@ Yeah that’s all my thoughts. Bye!
 [^1]: I'd only played Uncharted 4 to completion as of writing this.
 
 #### Related Articles
-[Uncharted 2: Among Theives](https://ranhya.github.io/posts/uncharted-2/)
+[Uncharted 2: Among Theives](/posts/uncharted-2/)
