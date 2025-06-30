@@ -2,6 +2,7 @@
 title: "Uncharted: Drake's Fortune Remastered"
 date: 2025-05-17
 draft: false
+platinum: https://youtu.be/wnW1rw-geFU
 ---
 
 ![Uncharted 1 Boat](https://raw.githubusercontent.com/ranhya/ranhya.github.io/refs/heads/main/images/Uncharted%201%20Boat.AVIF)
