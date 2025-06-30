@@ -42,4 +42,4 @@ The very last ending (and the one in my platinum video) is the hardest to achiev
 Yeah that’s it. Bye.
 
 #### Related Articles
-[Sekiro and Pointless Mechanics](https://ranhya.github.io/posts/sekiro-mechanics/)
+[Sekiro and Pointless Mechanics](/posts/sekiro-mechanics/)
