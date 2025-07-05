@@ -6,7 +6,7 @@ draft: false
 
 I’ll be detailing a few tips on getting all of your confidants to MAX in Persona 5 Royal. This can be done on your first playthrough with ease if you just keep a few things in mind. This is a lot more lenient than in the original Persona 5.
 
-- Always carry a person of the same arcana as the confidant you’re about to hang out with, this increases the amount of points you get.
+- Always carry a persona of the same arcana as the confidant you’re about to hang out with, this increases the amount of points you get.
 - On that note you should always pick the best dialogue option for the most points. You can easily Google these or once you have it you can use Chihaya’s last ability to tell you which ones to choose. Obviously googling is better as you don’t have to spend 10k yen for it.
 - Prioritize hanging out with confidants over everything else
 - Books are amazing, ideally you read them after reading the speed reading book you can get from the school library on and after July 1st. But you can probably do it before if you have time, especially on the days you get to read on the train. So you will ideally always have an unread book available for those days.
